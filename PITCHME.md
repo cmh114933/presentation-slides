@@ -148,9 +148,6 @@ Content-Type: text/html; charset=iso-8859-1
 </html>
 ```
 
-+++
-
-
 ---
 
 ## HTTP is Stateless (ZEN)

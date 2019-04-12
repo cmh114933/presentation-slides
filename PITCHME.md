@@ -81,8 +81,6 @@ Content-Length: 27
 field1=value1&field2=value2
 ```
 
-+++
-
 ---
 
 ## Response

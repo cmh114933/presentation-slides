@@ -23,9 +23,9 @@ command or request
     - `POST`
     - `PUT`
     - `DELETE`
++++ 
 - `Headers` are 
     - optional, but typically browser/server inserts headers in to request and responses.
-- `Headers` are 
     - additional information passed with the request/response, and has the following format:
     ```
         case-insensitive-name: value
@@ -54,10 +54,6 @@ Host: example.org
 User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
 Accept: */*
 Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
-Accept-Encoding: gzip,deflate
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
-Keep-Alive: 115
-Connection: keep-alive
 Content-Type: application/x-www-form-urlencoded
 X-Requested-With: XMLHttpRequest
 Referer: http://example.org/test
